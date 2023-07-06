@@ -53,3 +53,5 @@ You can print this using the "Print Receipt" button.
 Every Page after Logging In into your account on the e-TICKET website would have "Contact Us" , "My Account" and "Sign Out" options.
 "My Account" page will contain your account information like "Name" , "Email" , "Gender" ,"Date of Birth" and "Contact Number".
 "Sign Out" option will Logout you from your account and you cannot go back to the previous page unless after Sign In.
+
+https://github.com/madhav-agrr/Local-Train-Ticketing-System/assets/124513997/d1c34da0-9b66-4810-a0e1-245767d69358
